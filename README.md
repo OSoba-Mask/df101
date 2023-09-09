@@ -13,3 +13,6 @@ main text
 *krutoi* text
 
 ![no neco arc](images.jpeg)
+
+|name |neco arc? |
+|pepe |no        |
