@@ -22,3 +22,4 @@ main text
 видео только mp4
 ## 23
 https://www.thingiverse.com/thing:5164149
+![1](IMG_0067.jpeg)
